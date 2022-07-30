@@ -1,0 +1,63 @@
+.bg-container{
+    background-color:lightblue;
+    height:120vh;
+    width:30vw;
+
+}
+.background{
+    background-color: #FF3131;
+    background-size: cover;
+    padding: 20px;
+}
+.para1{
+    color: white;
+    margin-left: 20px;;
+
+}
+.para2{
+    padding: 20px;
+    color: black;
+    
+
+}
+.back2{
+    background-color: white;
+    height: 170px;
+    width: 370px;
+    padding: 20px;
+    margin-left: 27px;
+    border-radius: 15px;
+
+}
+.img2{
+    height: 100px;
+    width: 100px;
+    margin-top: 40px;
+
+    
+}
+
+
+
+
+.para3{
+    padding: 20px;
+}
+.img3{
+    padding: 10px;
+}
+.img4{
+    margin-left: 20px;
+    padding: 10px;
+}
+.para5{
+    margin-left: 10px;
+}
+.button{
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    margin-left: 150px;
+    border-radius: 10px;
+
+}

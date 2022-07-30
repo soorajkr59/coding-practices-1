@@ -1,0 +1,29 @@
+.bg-container{
+    background-color:white;
+    height:150vh;
+    width:30vw;
+    background-size: contain;
+
+
+}
+.back{
+    background-image: url("goa-c1-img.png");
+    height: 40vh;
+    width: 30vw;
+    background-size: cover;
+
+}
+.head{
+    color:black;
+    margin-left: 20px;
+}
+.img{
+    height: 120px;
+    width: 120px;
+    padding: 10px;
+}
+.video1{
+    height: 120px;
+    width: 120px;
+    padding: 10px;
+}

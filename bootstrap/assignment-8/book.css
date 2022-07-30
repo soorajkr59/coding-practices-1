@@ -1,0 +1,40 @@
+.bg-container{
+
+    background-image: url("todolistbg.png");
+    height: 100vh;
+    background-repeat: no-repeat;
+    margin:0px auto;
+    width: 30vw;
+    background-size: cover;
+
+}
+.h1{
+    text-align: center;
+    color:white;
+    
+}
+.para{
+    text-align: center;
+    color:white;
+    font-size: large;
+}
+.h2{
+    color:white;
+    font-size: large;
+}
+.para2{
+    color: white;
+    font-size: large;
+}
+.button{
+    color:white;
+    background-color: orange;
+    margin-left: 160px;    
+}
+.h3{
+    color: white;
+    margin-left :120px;
+    font-size: small;
+    line-height: 30px;
+
+}

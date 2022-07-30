@@ -1,0 +1,45 @@
+.back{
+    background-color: orangered;
+    height: 130vh;
+    width:30vw;
+    background-size: contain;
+    margin-left: 520px;
+}
+.bg-container{
+    background-image: url("nemo-c1-img.png");
+    height: 260px;
+    width: 350px;
+    margin-top: 20px;
+    background-size: cover;
+    margin-left: 30px;
+    border-radius: 20px;
+}
+.head{
+    color:white;
+    margin-left: 20px;
+    font-size: large;
+
+}
+.button{
+    background-color: white;
+    margin-left: 120px;
+    border-radius: 20px;
+    font-size: medium;
+    padding: 10px;
+}
+.para{
+    color: white;
+    padding: 20px;
+
+}
+.para2{
+    color:white;
+    margin-left: 20px;
+    
+}
+.img{
+    height: 200px;
+    width: 130px;
+    padding: 10px;
+
+}
